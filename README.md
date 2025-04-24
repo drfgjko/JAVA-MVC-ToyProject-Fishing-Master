@@ -23,7 +23,7 @@
       - 3.2.1 [GameThread类](#gamethread类)  
    3.3 [资源管理](#资源管理)  
       - 3.3.1 [ElementManager类](#elementmanager类)  
-4. [游戏画面展示](#游戏画面展示)  
+4. [游戏画面展示](#4.游戏画面展示)  
 
 ---
 
